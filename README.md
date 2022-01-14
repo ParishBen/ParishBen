@@ -7,7 +7,8 @@
 ---
 I'm a Full Stack Software Developer experienced in Ruby | Rails | JavaScript | React | Redux <br/>
 Passionate and persistent problem solver who loves picking up new things and tools. <br/>
-Always employ positivity first mindset & hold strong interpersonal skills
+Always employ positivity first mindset & hold strong interpersonal skills <br/>
+
 
 ## Projects
 ---
