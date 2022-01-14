@@ -1,7 +1,7 @@
 
 
 ![Ocean Blog Header height="40"]( https://user-images.githubusercontent.com/38093481/149448114-63128adf-ab00-42bb-a7f5-d044dc9e2711.png)
-[![Welcome Msg](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Ben+thanks+for+stopping+by!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Ben+thanks+for+stopping+by!;)](https://git.io/typing-svg)
 
 ## Brief Intro
 
