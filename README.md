@@ -2,6 +2,10 @@
 
 ![Ocean Blog Header height="40"]( https://user-images.githubusercontent.com/38093481/149448114-63128adf-ab00-42bb-a7f5-d044dc9e2711.png)
 [![Welcome Msg](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Thanks+for+stopping+by!;I'm+)](https://git.io/typing-svg)
+
+New Pic take 2
+<img src="https://www.canva.com/
+https://export-download.canva.com/W2COc/DAE1Y8W2COc/56/0/0001-16548335946.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220113T124728Z&X-Amz-Expires=60245&X-Amz-Signature=f6ef329e6d970004c598202b3ebf271225a72e59f9f4a9d38c13ea490af9f74f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Purple%2520Ocean%2520Blog%2520Header.png&response-expires=Fri%2C%2014%20Jan%202022%2005%3A31%3A33%20GMT" height="200pt" width="200pt" alt="Ocean Background"/>
 <!--
 **ParishBen/ParishBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
