@@ -12,22 +12,30 @@ Always employ positivity first mindset & hold strong interpersonal skills <br/>
 
 ## Projects
 ---
-NYC Bands Showcase <a href="https://github.com/ParishBen/nyc-bands-showcase">Front End</a> Built with React | Redux | Rails backend  <br/>
-*Designed to show clients a wide variety of bands out of NYC
-*Users can sample artists' top tracks from Spotify API,
-*Can click to buy tickets to upcoming concerts via TicketMaster API,
-*Save a list of their favorite bands
-*Leverages JWT on client side for Spotify Access Token
+NYC Bands Showcase <a href="https://github.com/ParishBen/nyc-bands-showcase">Front End</a> **Built with React | Redux | Rails backend**  <br/>
+* Designed to show clients a wide variety of bands out of NYC
+* Users can sample artists' top tracks from Spotify API,
+* Can click to buy tickets to upcoming concerts via TicketMaster API,
+* Save a list of their favorite bands
+* Leverages JWT on client side for Spotify Access Token
 
-Brewer Passport <a href="https://github.com/ParishBen/brewer-passport-frontend"> Front End</a> Built with JS | Rails backend. <br/>
-*Leverages OpenDataSoft API to pull from breweries across the entire globe
-*Users can then create a 'passport' of both wishlists & favorites
-*Users have CRD abilities and can either send wishlists to favorites or delete breweries from respective lists
-*Leverages JWT on client side for current user data 
+Brewer Passport <a href="https://github.com/ParishBen/brewer-passport-frontend"> Front End</a> Built with **JS | Rails backend** <br/>
+* Leverages OpenDataSoft API to pull from breweries across the entire globe
+* Users can then create a 'passport' of both wishlists & favorites
+* Users have CRD abilities and can either send wishlists to favorites or delete breweries from respective lists
+* Leverages JWT on client side for current user data 
 
-Planters Digest <a href="https://github.com/ParishBen/planters_digest"> Repo </a> Build with Rails. <br/>
-*Built
+Planters Digest <a href="https://github.com/ParishBen/planters-digest"> Repo </a> Built with **Rails** <br/>
+* Designed for users to be more punctual/mindful on caring for their houseplants
+* User create plants then logs on those plants
+* Forum format in that other users then could leave comments on other's plants
+* Navigation bar holds helpful pages that can take the user to most 'popular' or commented on plants;
+* or to the Users with the most plants in the system
 
+Zoo Viewer <a href="https://github.com/ParishBen/zooviewer"> Repo </a> Built with **Ruby** <br/>
+* Leverages the Nokogiri and Uri gems to scrape data off a website (Top Zoos in U.S.)
+* CLI project that gives user directions upon viewing the list of Zoos
+* User then receives scraped Zoo information about their choice(s) until exiting
 
 ## Skills
 ---
