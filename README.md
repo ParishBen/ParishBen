@@ -12,20 +12,20 @@ Always employ positivity first mindset & hold strong interpersonal skills <br/>
 
 ## Projects
 ---
-NYC Bands Showcase <a href="https://github.com/ParishBen/nyc-bands-showcase">Front End</a> Built with React | Redux | Rails backend  
+NYC Bands Showcase <a href="https://github.com/ParishBen/nyc-bands-showcase">Front End</a> Built with React | Redux | Rails backend  <br/>
 *Designed to show clients a wide variety of bands out of NYC
 *Users can sample artists' top tracks from Spotify API,
 *Can click to buy tickets to upcoming concerts via TicketMaster API,
 *Save a list of their favorite bands
 *Leverages JWT on client side for Spotify Access Token
 
-Brewer Passport <a href="https://github.com/ParishBen/brewer-passport-frontend"> Front End</a> Built with JS | Rails backend. 
+Brewer Passport <a href="https://github.com/ParishBen/brewer-passport-frontend"> Front End</a> Built with JS | Rails backend. <br/>
 *Leverages OpenDataSoft API to pull from breweries across the entire globe
 *Users can then create a 'passport' of both wishlists & favorites
 *Users have CRD abilities and can either send wishlists to favorites or delete breweries from respective lists
 *Leverages JWT on client side for current user data 
 
-Planters Digest <a href="https://github.com/ParishBen/planters_digest"> Repo </a> Build with Rails. 
+Planters Digest <a href="https://github.com/ParishBen/planters_digest"> Repo </a> Build with Rails. <br/>
 *Built
 
 
