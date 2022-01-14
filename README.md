@@ -38,11 +38,14 @@ Zoo Viewer - <a href="https://github.com/ParishBen/zooviewer"> Repo </a> - Built
 * User then receives scraped Zoo information about their choice(s) until exiting
 
 ## Skills
-<img src="https://rebornix.gallerycdn.vsassets.io/extensions/rebornix/ruby/0.28.1/1610064136833/Microsoft.VisualStudio.Services.Icons.Default" style="width: 25px; height: 25px; margin: 0px; padding-right=10px" alt="Ruby"> 
-<!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1cD75o73ABmy8kZM0vCAe2dH0VODhyyUKQ&amp;usqp=CAU" style="width=10px; height=10px; padding-right=10px" alt="Ruby on Rails" -->
+<img src="https://rebornix.gallerycdn.vsassets.io/extensions/rebornix/ruby/0.28.1/1610064136833/Microsoft.VisualStudio.Services.Icons.Default" style="width: 25px; height: 25px; margin: 0px;" alt="Ruby"> 
+
 <img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="70" height="70" alt="ruby logo transparent - Google Search | Ruby on rails, Rails, Web  application" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5Eh9crrHvHDo63s23IFobVVH3mQZ-zWITw&amp;usqp=CAU" style="-webkit-user-select: text;">
+
 <img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="70" height="70" alt="Technologies - DevScale" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlawpE5ldojm1vfYxWsEBxca5L3joRRTKhvg&amp;usqp=CAU" style="-webkit-user-select: text;">
-<img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="70" height="70" alt="Stimulsoft Reports.JS | Reporting Tool for the JavaScript platform - LOGON  Software Asia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLOl37j9vmgSQ0gJIOlgvKfMI-Z1QALBTmQ&amp;usqp=CAU" style="-webkit-user-select: text;">
+
+<img  width="70" height="70" alt="js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLOl37j9vmgSQ0gJIOlgvKfMI-Z1QALBTmQ&amp;usqp=CAU" style="-webkit-user-select: text;">
+
 ---
 - 🔭 I’m currently working on "green-globtrotter" - a project I'm building with React that will allow a user to choose the greenest flight based on atmosphere.de and other reports that rank carbon efficiency of airlines. 
 <!--
