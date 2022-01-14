@@ -1,6 +1,7 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Thanks+for+visiting!;Testing+typing+readme)](https://git.io/typing-svg)
+<!--### Hi there 👋 -->
 
+![Ocean Blog Header](https://user-images.githubusercontent.com/38093481/149448114-63128adf-ab00-42bb-a7f5-d044dc9e2711.png)
+[![Welcome Msg](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Thanks+for+stopping+by!;I'm+)](https://git.io/typing-svg)
 <!--
 **ParishBen/ParishBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
