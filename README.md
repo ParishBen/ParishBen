@@ -38,8 +38,7 @@ Zoo Viewer - <a href="https://github.com/ParishBen/zooviewer"> Repo </a> - Built
 * User then receives scraped Zoo information about their choice(s) until exiting
 
 ## Skills
-<img src="https://rebornix.gallerycdn.vsassets.io/extensions/rebornix/ruby/0.28.1/1610064136833/Microsoft.VisualStudio.Services.Icons.Default" alt="Ruby - Visual Studio Marketplace"  style="width: 25px; height: 25px; margin: 0px padding-right=10px" alt="Ruby">
-<img  style="width=25px; height=25px; padding-right=10px" alt="Ruby on Rails" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1cD75o73ABmy8kZM0vCAe2dH0VODhyyUKQ&amp;usqp=CAU">
+<img src="https://rebornix.gallerycdn.vsassets.io/extensions/rebornix/ruby/0.28.1/1610064136833/Microsoft.VisualStudio.Services.Icons.Default" style="width: 25px; height: 25px; margin: 0px padding-right=10px" alt="Ruby"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1cD75o73ABmy8kZM0vCAe2dH0VODhyyUKQ&amp;usqp=CAU" style="width=10px; height=10px; padding-right=10px" alt="Ruby on Rails" >
 
 
 ---
