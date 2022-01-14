@@ -1,18 +1,18 @@
-<!--### Hi there 👋 -->
+
 
 ![Ocean Blog Header height="40"]( https://user-images.githubusercontent.com/38093481/149448114-63128adf-ab00-42bb-a7f5-d044dc9e2711.png)
 [![Welcome Msg](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I'm+Ben+thanks+for+stopping+by!;)](https://git.io/typing-svg)
 
 ## Brief Intro
----
+
 I'm a Full Stack Software Developer experienced in Ruby | Rails | JavaScript | React | Redux <br/>
 Passionate and persistent problem solver who loves picking up new things and tools. <br/>
 Always employ positivity first mindset & hold strong interpersonal skills <br/>
 
 
 ## Projects
----
-NYC Bands Showcase <a href="https://github.com/ParishBen/nyc-bands-showcase">Front End</a> **Built with React | Redux | Rails backend**  <br/>
+
+NYC Bands Showcase <a href="https://github.com/ParishBen/nyc-bands-showcase">Front End</a> Built with **React | Redux | Rails backend**  <br/>
 * Designed to show clients a wide variety of bands out of NYC
 * Users can sample artists' top tracks from Spotify API,
 * Can click to buy tickets to upcoming concerts via TicketMaster API,
@@ -38,14 +38,17 @@ Zoo Viewer <a href="https://github.com/ParishBen/zooviewer"> Repo </a> Built wit
 * User then receives scraped Zoo information about their choice(s) until exiting
 
 ## Skills
----
 
+
+
+---
+- 🔭 I’m currently working on "green-globtrotter" - a project I'm building with React that will allow a user to choose the greenest flight based on atmosphere.de and other reports that rank carbon efficiency of airlines. 
 <!--
 **ParishBen/ParishBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
