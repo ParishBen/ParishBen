@@ -38,13 +38,7 @@ Zoo Viewer - <a href="https://github.com/ParishBen/zooviewer"> Repo </a> - Built
 * User then receives scraped Zoo information about their choice(s) until exiting
 
 ## Skills
-<img  width="40" height="40" alt="js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLOl37j9vmgSQ0gJIOlgvKfMI-Z1QALBTmQ&amp;usqp=CAU">
-<img  width="40" height="40" alt="Angular" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_3qKnE2ZDQqDBmS4FJLpDX4MksNzEReuYQ&usqp=CAU">
-<img  width="40" height="40" alt="Technologies - DevScale" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlawpE5ldojm1vfYxWsEBxca5L3joRRTKhvg&amp;usqp=CAU" > 
-<img src="https://rebornix.gallerycdn.vsassets.io/extensions/rebornix/ruby/0.28.1/1610064136833/Microsoft.VisualStudio.Services.Icons.Default" style="width: 35px; height: 40px; margin: 0px;" alt="Ruby"> 
-<img width="40" height="40" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCxVv6Y_5uTx2pJWo07agw5asXwwvRSPYkJg&usqp=CAU">
-<img width="80" height="40" alt="ruby logo transparent - Google Search | Ruby on rails, Rails, Web  application" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5Eh9crrHvHDo63s23IFobVVH3mQZ-zWITw&amp;usqp=CAU" >
-<img width="40" height="40" alt="Getting Started With Redux: Why Redux?" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAW6CF0IHyTuszK7mSP0nC6UlZTO0XGP1OA&amp;usqp=CAU">
+<img  width="40" height="40" alt="js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLOl37j9vmgSQ0gJIOlgvKfMI-Z1QALBTmQ&amp;usqp=CAU"><img  width="40" height="40" alt="Angular" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_3qKnE2ZDQqDBmS4FJLpDX4MksNzEReuYQ&usqp=CAU"><img  width="40" height="40" alt="Technologies - DevScale" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlawpE5ldojm1vfYxWsEBxca5L3joRRTKhvg&amp;usqp=CAU"><img src="https://rebornix.gallerycdn.vsassets.io/extensions/rebornix/ruby/0.28.1/1610064136833/Microsoft.VisualStudio.Services.Icons.Default" style="width: 35px; height: 40px; margin: 0px;" alt="Ruby"><img width="40" height="40" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCxVv6Y_5uTx2pJWo07agw5asXwwvRSPYkJg&usqp=CAU"><img width="80" height="40" alt="ruby logo transparent - Google Search | Ruby on rails, Rails, Web  application" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5Eh9crrHvHDo63s23IFobVVH3mQZ-zWITw&amp;usqp=CAU"><img width="40" height="40" alt="Getting Started With Redux: Why Redux?" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAW6CF0IHyTuszK7mSP0nC6UlZTO0XGP1OA&amp;usqp=CAU">
 ---
 - 🔭 I’m currently working on "green-globtrotter" - a project I'm building with React that will allow a user to choose the greenest flight based on atmosphere.de and other reports that rank carbon efficiency of airlines. 
 <!--
